@@ -1,0 +1,27 @@
+.box {
+  width: 320px;
+  margin: 100px auto;
+  background: #e6f7ff;
+  padding: 25px;
+  border-radius: 10px;
+  text-align: center;
+}
+
+input {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+}
+
+button {
+  width: 100%;
+  padding: 10px;
+  background: dodgerblue;
+  color: white;
+  border: none;
+}
+
+.msg {
+  color: red;
+  margin-top: 10px;
+}
